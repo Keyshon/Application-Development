@@ -1,0 +1,15 @@
+C:\Users\Aspire2 Student\source\repos\FurnitureStoreSystem\FurnitureStoreSystem\bin\Debug\FurnitureStoreSystem.exe.config
+C:\Users\Aspire2 Student\source\repos\FurnitureStoreSystem\FurnitureStoreSystem\bin\Debug\FurnitureStoreSystem.exe
+C:\Users\Aspire2 Student\source\repos\FurnitureStoreSystem\FurnitureStoreSystem\bin\Debug\FurnitureStoreSystem.pdb
+C:\Users\Aspire2 Student\source\repos\FurnitureStoreSystem\FurnitureStoreSystem\obj\Debug\FurnitureStoreSystem.csprojAssemblyReference.cache
+C:\Users\Aspire2 Student\source\repos\FurnitureStoreSystem\FurnitureStoreSystem\obj\Debug\FurnitureStoreSystem.AuthorizationForm.resources
+C:\Users\Aspire2 Student\source\repos\FurnitureStoreSystem\FurnitureStoreSystem\obj\Debug\FurnitureStoreSystem.Properties.Resources.resources
+C:\Users\Aspire2 Student\source\repos\FurnitureStoreSystem\FurnitureStoreSystem\obj\Debug\FurnitureStoreSystem.csproj.GenerateResource.cache
+C:\Users\Aspire2 Student\source\repos\FurnitureStoreSystem\FurnitureStoreSystem\obj\Debug\FurnitureStoreSystem.csproj.CoreCompileInputs.cache
+C:\Users\Aspire2 Student\source\repos\FurnitureStoreSystem\FurnitureStoreSystem\obj\Debug\FurnitureStoreSystem.exe
+C:\Users\Aspire2 Student\source\repos\FurnitureStoreSystem\FurnitureStoreSystem\obj\Debug\FurnitureStoreSystem.pdb
+C:\Users\Aspire2 Student\source\repos\FurnitureStoreSystem\FurnitureStoreSystem\obj\Debug\FurnitureStoreSystem.ManagingItemsForm.resources
+C:\Users\Aspire2 Student\source\repos\FurnitureStoreSystem\FurnitureStoreSystem\obj\Debug\FurnitureStoreSystem.ManagingMenuForm.resources
+C:\Users\Aspire2 Student\source\repos\FurnitureStoreSystem\FurnitureStoreSystem\bin\Debug\Furnituredb.mdf
+C:\Users\Aspire2 Student\source\repos\FurnitureStoreSystem\FurnitureStoreSystem\bin\Debug\Furnituredb_log.ldf
+C:\Users\Aspire2 Student\source\repos\FurnitureStoreSystem\FurnitureStoreSystem\obj\Debug\FurnitureStoreSystem.ManagingUsersForm.resources
